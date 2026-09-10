@@ -5,7 +5,7 @@
 
   <h3>Cybersecurity Student | Systems &amp; Networking | Aspiring Cybersec Professional</h3>
 
-  <p>Information Security undergraduate at Singapore Institute of Technology · Singapore</p>
+  <p>Information Security undergraduate at Singapore Institute of Technology</p>
 
   <a href="https://www.ongjiayuan.com/"><img src="https://img.shields.io/badge/PORTFOLIO-16283F?style=for-the-badge" alt="Visit my portfolio" /></a>
   <a href="https://www.linkedin.com/in/ongjiayuan/"><img src="https://img.shields.io/badge/LINKEDIN-245A94?style=for-the-badge" alt="Connect on LinkedIn" /></a>
