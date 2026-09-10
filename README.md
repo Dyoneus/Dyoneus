@@ -12,8 +12,3 @@
   <a href="mailto:ongjiayuan@outlook.com"><img src="https://img.shields.io/badge/EMAIL-16283F?style=for-the-badge" alt="Send me an email" /></a>
   <a href="https://www.ongjiayuan.com/resume/"><img src="https://img.shields.io/badge/RESUME-16283F?style=for-the-badge" alt="View my resume" /></a>
 </div>
-
-
-## Hey there, I'm Jia Yuan 👋
-
-I'm a Year 1 Information Security undergraduate at the Singapore Institute of Technology. Computer games sparked my curiosity about what happens behind the screen, and that took me into systems administration, networking and now cybersecurity. I've studied systems and networks at ITE, worked on UiPath automation during my internship at MOE, and built a team project around giving electronics a second life. I'm now working towards a **SOC Analyst or Security Analyst role**.
