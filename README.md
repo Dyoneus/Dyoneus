@@ -3,7 +3,7 @@
     <img src="assets/banner.png" alt="Ong Jia Yuan — Cybersecurity Student. Systems. Networks. Security." width="100%" />
   </a>
 
-  <h3>Cybersecurity Student | Systems &amp; Networking | Aspiring SOC Analyst</h3>
+  <h3>Cybersecurity Student | Systems &amp; Networking | Aspiring Cybersec Professional</h3>
 
   <p>Information Security undergraduate at Singapore Institute of Technology · Singapore</p>
 
